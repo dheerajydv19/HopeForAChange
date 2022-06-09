@@ -4,5 +4,5 @@ Hope For A Change® is an international non profit Organization established in 2
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K4CGTLK)
 
-Developed by [@dheerajydv19](https://github.com/dheerajydv19) & [GarimaSingh2706](https://github.com/GarimaSingh2706)
+Developed by [@dheerajydv19](https://github.com/dheerajydv19) & [@GarimaSingh2706](https://github.com/GarimaSingh2706)
 
